@@ -13,6 +13,7 @@ Pokud zadaná součástka na skladě je a je jí dostatek, vypiš informaci, že
 a sniž počet součástek na skladě o množství požadované zákazníkem.
 """
 
+
 sklad = {
   "1N4148": 250,
   "BAV21": 54,
