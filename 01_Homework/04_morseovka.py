@@ -74,17 +74,3 @@ while n < (len(sentence)):
     n = n + 1
 
     print(morse, end = " ")
-
-
-
-
-
-
-"""
-sentence = sentence[0] + sentence[1] + sentence[2]+sentence[3] + sentence[4] + sentence[5]
-
-if ' ' in sentence:
-    print("/")
-else:
-    print(morseCode[sentence[0]], morseCode[sentence[1]], morseCode[sentence[2]], morseCode[sentence[3]], morseCode[sentence[4]], morseCode[sentence[5]])
-"""
